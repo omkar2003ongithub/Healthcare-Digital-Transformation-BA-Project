@@ -1,4 +1,3 @@
-# Healthcare-Digital-Transformation-BA-Project
 # Hospital EMR Digital Transformation Project 🏥💻
 **Professional Business Analysis Case Study**
 
